@@ -13,6 +13,7 @@ on:
       - 'docker/**'
       - 'traces/**'
       - '.vscode/**'
+  workflow_dispatch:
 
 
 jobs:
